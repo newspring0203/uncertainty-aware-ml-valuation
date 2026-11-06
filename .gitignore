@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+data/input/*
+!data/input/README.md
+scripts/*_20261106/
+outputs/
+blog/
+reports/
+papers/
+*.zip
+*.pdf
